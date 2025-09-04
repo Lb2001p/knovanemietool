@@ -393,11 +393,11 @@ with tab6:
     """)
     
     st.markdown("""
-    - KWOV. (2025a, August 5). *Flowchart Anemie – Eerste trimester – 'Hoog risico'*  
+    - KNOV. (2025a, August 5). *Flowchart Anemie – Eerste trimester – 'Hoog risico'*  
       https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20juli%202025.pdf
-    - KWOV. (2025b, August 5). *Flowchart Anemie – Eerste trimester – 'Laag risico'*  
+    - KNOV. (2025b, August 5). *Flowchart Anemie – Eerste trimester – 'Laag risico'*  
       https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Laag%20risico%20-%20juli%202025.pdf
-    - KWOV. (2025c). *MDR Anemie*  
+    - KNOV. (2025c). *MDR Anemie*  
       https://assets.knov.nl/p/557056/none/Richtlijn%20Anemie%20juni%202025.pdf
     - Koninklijke Nederlandse Organisatie van Verloskundigen. (n.d.). *Anemie*  
       https://www.knov.nl/kennis-en-scholing/vakkennis-en-wetenschap/vakkennis/anemie-knov-standaard
