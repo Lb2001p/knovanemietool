@@ -404,3 +404,7 @@ with tab6:
     - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). <i>Regioprotocol Anemie</i>.
     </div>
     """, unsafe_allow_html=True)
+    
+# Alternatieve footer
+st.divider()  # Alternatief voor de horizontale lijn (Streamlit v1.23+)
+st.caption("Augustus 2025 | Lotte Brink | Utrecht")
