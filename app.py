@@ -89,7 +89,7 @@ def bepaal_beleid(is_hoog_risico, hb, mcv, ferritine):
                     return "Start ferrofumaraat."
                 else:
                     return ("1. Overweeg ferrofumaraat.\n2. Herhaal lab Hb+MCV+Ferritine 20-27 wk.\n"
-                           "3. Onderzoek oorzaa.\n4. Behandel/verwijs.")
+                           "3. Onderzoek oorzaak.\n4. Behandel/verwijs.")
             
             elif mcv_status == "70-79":
                 if ferritine_laag:
