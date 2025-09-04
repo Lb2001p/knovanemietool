@@ -392,15 +392,15 @@ with tab6:
     <b>Bronnen:</b><br>
     Alle informatie in deze tool is terug te vinden via de volgende bronnen.<br><br>
     - KWOV. (2025a, August 5). <i>Flowchart Anemie – Eerste trimester – 'Hoog risico'</i>.<br>
-    &nbsp;&nbsp;<a href="https://assets.knov.nl/p/557856/none/KWOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20jul%202025.pdf" target="_blank">https://assets.knov.nl/p/557856/none/KWOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20jul%202025.pdf</a><br>
+    https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20juli%202025.pdf    
     - KWOV. (2025b, August 5). <i>Flowchart Anemie – Eerste trimester – 'Laag risico'</i>.<br>
     https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Laag%20risico%20-%20juli%202025.pdf
     - KWOV. (2025c). <i>MDR Anemie</i>.<br>
-    &nbsp;&nbsp;<a href="https://assets.knov.nl/p/557856/none/Richtljjn%20Anemie%20jun%202025.pdf" target="_blank">https://assets.knov.nl/p/557856/none/Richtljjn%20Anemie%20jun%202025.pdf</a><br>
+    https://assets.knov.nl/p/557056/none/Richtlijn%20Anemie%20juni%202025.pdf
     - Koninklijke Nederlandse Organisatie van Verloskundigen. (n.d.). <i>Anemie</i>.<br>
-    &nbsp;&nbsp;<a href="https://www.knov.nl/kennis-en-scholing/richtlijnen-en-standaarden/richtlijn/anemie-know-standaard" target="_blank">https://www.knov.nl/kennis-en-scholing/richtlijnen-en-standaarden/richtlijn/anemie-know-standaard</a><br>
+    https://www.knov.nl/kennis-en-scholing/vakkennis-en-wetenschap/vakkennis/anemie-knov-standaard
     - NHG. (2024, September). <i>Anemie. NHG-Richtlijnen</i>.<br>
-    &nbsp;&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/anemie#volledige-tekst-richtilinen-diagnostiek" target="_blank">https://richtlijnen.nhg.org/standaarden/anemie#volledige-tekst-richtilinen-diagnostiek</a><br>
+    https://richtlijnen.nhg.org/standaarden/anemie
     - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). <i>Regioprotocol Anemie</i>.
     </div>
     """, unsafe_allow_html=True)
