@@ -242,7 +242,7 @@ with tab2:
         st.markdown("""
         **Belangrijkste aandachtspunten:**
         - Screenen op anemie tussen 20-27 weken
-        - Bij Hb < 6.9 mmol/L: start behandeling
+        - Bij Hb onder de grens: start behandeling (zie tabblad 'Hb-afkapwaarden')
         - Ferritine < 30 µg/L: overweeg ijzersuppletie
         - MCV < 70 fL: screen op hemoglobinopathie
         
@@ -255,7 +255,7 @@ with tab2:
         st.subheader("3e trimester (28+ weken)")
         st.markdown("""
         **Belangrijkste aandachtspunten:**
-        - Hb < 6.8 mmol/L: altijd behandelen
+        - Hb < 6.3 mmol/L: altijd behandelen (overweeg Ferinject ivm termijn)
         - Ferritine < 30 µg/L: start ijzersuppletie
         - MCV afwijkingen: oorzaak onderzoeken
         
