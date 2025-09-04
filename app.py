@@ -387,23 +387,24 @@ with tab5:
 
 with tab6:
     st.header("Literatuur")
-    st.markdown(""" 
-    <div style="font-size:14px; line-height:1.5">
-    <b>Bronnen:</b><br>
-    Alle informatie in deze tool is terug te vinden via de volgende bronnen.<br><br>
-    - KWOV. (2025a, August 5). <i>Flowchart Anemie – Eerste trimester – 'Hoog risico'</i>.<br>
-    https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20juli%202025.pdf    
-    - KWOV. (2025b, August 5). <i>Flowchart Anemie – Eerste trimester – 'Laag risico'</i>.<br>
-    https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Laag%20risico%20-%20juli%202025.pdf
-    - KWOV. (2025c). <i>MDR Anemie</i>.<br>
-    https://assets.knov.nl/p/557056/none/Richtlijn%20Anemie%20juni%202025.pdf
-    - Koninklijke Nederlandse Organisatie van Verloskundigen. (n.d.). <i>Anemie</i>.<br>
-    https://www.knov.nl/kennis-en-scholing/vakkennis-en-wetenschap/vakkennis/anemie-knov-standaard
-    - NHG. (2024, September). <i>Anemie. NHG-Richtlijnen</i>.<br>
-    https://richtlijnen.nhg.org/standaarden/anemie
-    - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). <i>Regioprotocol Anemie</i>.
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown("""
+    **Bronnen:**  
+    Alle informatie in deze tool is terug te vinden via de volgende bronnen.
+    """)
+    
+    st.markdown("""
+    - KWOV. (2025a, August 5). *Flowchart Anemie – Eerste trimester – 'Hoog risico'*  
+      https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20juli%202025.pdf
+    - KWOV. (2025b, August 5). *Flowchart Anemie – Eerste trimester – 'Laag risico'*  
+      https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Laag%20risico%20-%20juli%202025.pdf
+    - KWOV. (2025c). *MDR Anemie*  
+      https://assets.knov.nl/p/557056/none/Richtlijn%20Anemie%20juni%202025.pdf
+    - Koninklijke Nederlandse Organisatie van Verloskundigen. (n.d.). *Anemie*  
+      https://www.knov.nl/kennis-en-scholing/vakkennis-en-wetenschap/vakkennis/anemie-knov-standaard
+    - NHG. (2024, September). *Anemie. NHG-Richtlijnen*  
+      https://richtlijnen.nhg.org/standaarden/anemie
+    - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). *Regioprotocol Anemie*
+    """)
     
 # Alternatieve footer
 st.divider()  # Alternatief voor de horizontale lijn (Streamlit v1.23+)
