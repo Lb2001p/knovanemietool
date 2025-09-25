@@ -404,6 +404,7 @@ with tab6:
     - NHG. (2024, September). *Anemie. NHG-Richtlijnen*  
       https://richtlijnen.nhg.org/standaarden/anemie
     - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). *Regioprotocol Anemie*
+    - Young, M. F., Oaks, B. M., Rogers, H. P., Tandon, S., Martorell, R., Dewey, K. G., & Wendt, A. S. (2023). Maternal low and high hemoglobin concentrations and associations with adverse maternal and infant health outcomes: an updated global systematic review and meta-analysis. BMC Pregnancy and Childbirth, 23(1). https://doi.org/10.1186/s12884-023-05489-6
     """)
     
 # Alternatieve footer
