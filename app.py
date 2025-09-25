@@ -393,6 +393,10 @@ with tab6:
     """)
     
     st.markdown("""
+    - Abbas, A. M., Abdelbadee, S. A., Alanwar, A., & Mostafa, S. (2018). Efficacy of ferrous bis-glycinate versus ferrous glycine sulfate in the treatment of iron deficiency anemia with pregnancy: a randomized double-blind clinical trial. The Journal of Maternal-Fetal & Neonatal Medicine, 32(24), 4139–4145. https://doi.org/10.1080/14767058.2018.1482871
+    - Achebe, M. M., & Gafter-Gvili, A. (2016). How I treat anemia in pregnancy: iron, cobalamin, and folate. Blood, 129(8), 940–949. https://doi.org/10.1182/blood-2016-08-672246
+    - Jung, J., Rahman, M. M., Rahman, M. S., Swe, K. T., Islam, M. R., Rahman, M. O., & Akter, S. (2019). Effects of hemoglobin levels during pregnancy on adverse maternal and infant outcomes: a systematic review and meta‐analysis. Annals of the New York Academy of Sciences, 1450(1), 69–82. https://doi.org/10.1111/nyas.14112
+    - Karakoc, G., Orgul, G., Sahin, D., & Yucel, A. (2021). Is every other day iron supplementation effective for the treatment of the iron deficiency anemia in pregnancy? The Journal of Maternal-Fetal & Neonatal Medicine, 35(5), 832–836. https://doi.org/10.1080/14767058.2021.1910666
     - KNOV. (2025a, August 5). *Flowchart Anemie – Eerste trimester – 'Hoog risico'*  
       https://assets.knov.nl/p/557056/none/KNOV%20Flowchart%20Anemie%20-%20Hoog%20risico%20-%20juli%202025.pdf
     - KNOV. (2025b, August 5). *Flowchart Anemie – Eerste trimester – 'Laag risico'*  
@@ -401,6 +405,7 @@ with tab6:
       https://assets.knov.nl/p/557056/none/Richtlijn%20Anemie%20juni%202025.pdf
     - Koninklijke Nederlandse Organisatie van Verloskundigen. (n.d.). *Anemie*  
       https://www.knov.nl/kennis-en-scholing/vakkennis-en-wetenschap/vakkennis/anemie-knov-standaard
+    - Naveed, K., Goldberg, N., Shore, E., Dhoot, A., Gabrielson, D., Goodarzi, Z., Lin, Y., Pai, M., Pardy, N. A., Robinson, S., Andreou, R., Sood, M., Price, V., Storm, S., Verduyn, A., Parker, M. L., Fralick, M., Beriault, D., & Sholzberg, M. (2023). Defining ferritin clinical decision limits to improve diagnosis and treatment of iron deficiency: A modified Delphi study. International Journal of Laboratory Hematology, 45(3), 377–386. https://doi.org/10.1111/ijlh.14016
     - NHG. (2024, September). *Anemie. NHG-Richtlijnen*  
       https://richtlijnen.nhg.org/standaarden/anemie
     - VSV Uniek, VSV Eendracht, & VSV Alliant. (2023). *Regioprotocol Anemie*
